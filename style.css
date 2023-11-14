@@ -1,0 +1,126 @@
+body{background-color: rgb(9, 8, 41)
+    ; color: aliceblue
+    ; font-family: Poppins,sans-serif;
+}
+
+.lighttext{color: darkgray;
+}
+
+#header{position: relative
+    ;text-align: center
+    ; font-size: x-large
+    ;gap: 100px
+    ; padding-top: 1cm
+}
+
+.but{justify-content: center
+    ;font-size: x-large
+    ;padding: 1rem
+    ; border-radius: 2rem
+    ;background-color: rgba(24, 93, 195, 0.935)
+    ;left: 20%;
+}
+
+#butt :hover{background-color: #465bd1dd
+    ;color: white
+}
+
+#me{padding: 6%;
+}
+
+nav{left: 40%;
+}
+
+.buttomnav a{color: rgb(127, 255, 249)
+    ;text-align: center;padding: 20px 30px
+    ;font-size: 20px
+}
+
+.buttomnav a:hover{background-color:#ddd
+    ;color: black
+    ;border-radius: 2cm
+}
+
+.buttomnav a.active{background-color: #760398
+    ;color: white
+    ;position: relative
+}
+
+nav{display: flex
+    ; background-color: dimgrey
+    ; border-radius: 2cm;bottom: 1rem
+    ; gap: 1cm
+    ; margin-bottom: 1cm
+    ; position: fixed
+}
+
+#para{display: block
+    ;margin-left: 22%
+    ;width: 70%
+}
+
+p{display: block
+}
+
+.hello{color: darkgrey
+} 
+#about{position: relative
+    ;text-align: center
+    ;font-size: x-large
+    ;gap: 5rem
+}
+
+#avatar{border-radius: 40%
+    ;width: 30%
+}
+
+#photo{text-align: center
+    ;padding: 3rem
+}
+
+#cards{gap: 1rem
+    ;display: flex
+    ;justify-content: center
+    ;padding: 3rem
+    ;width: auto  auto auto
+}
+
+#cards :hover{background-color: #366adbdf
+    ;border-color: white
+}
+
+.content{background-color: rgba(28, 27, 122, 0.955)
+    ;width: 5cm
+    ;text-align: center
+    ;border-radius: 10px
+    ;padding: 3rem
+}
+
+#frontend{background-color: rgb(28, 28, 128)
+    ;border-radius: 10px
+    ;padding: 2rem
+    ;border: 2cm
+    ;text-align: center
+    ;width: 30%
+}
+
+
+#experience{position: relative
+    ;text-align: center
+    ;font-size: xx-large
+}
+
+h3{text-align: center
+}
+
+.logo{width: 5rem
+}
+
+h2{color: white
+}
+
+.links{justify-content: center; display: flex;gap: 2rem;}
+#end{background-color: rgb(19, 98, 201);padding-left: 10%; padding-right: 10%;padding-bottom: 40%;}
+@media screen {
+    
+}
